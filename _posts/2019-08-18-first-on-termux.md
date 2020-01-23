@@ -3,7 +3,7 @@ layout: post
 title: First log updated from termux
 catalog:  true
 tags:
-        - tag
+        - test
 ---
 
 ***updating from termux***
