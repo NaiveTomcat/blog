@@ -1,16 +1,16 @@
 ## 网站设置
 # 标题
-title: Blog
+title: NaiveTomcat-AKA Trimethyldopa
 # 选项卡标题
-SEOTitle: 周大路的博客 | SuperZhouDalu‘s Blog
+SEOTitle: 党一桐的博客 | NaiveTomcat's Blog
 # 首页背景图片
-header-img: img/post-bg-debug.png
+header-img: blog/img/post-bg-debug.png
 # 邮箱设置
 email: zhoujianlu666@gmail.com
 # 网站介绍
 description: "I guess it comes down to a simple choice:get busy living or get busy dying."
 # 关键词
-keyword: "Java, Kotlin, Android, Vue.js, Apple, iPhone"
+keyword: "Maker, XJTU, XJTU-Youth, Deep Learning"
 # 博客访问链接
 url: "https://www.tsinghuamakerxian.cn/blog"
 # '/blog' if your blog hosted on 'host/blog'
@@ -27,15 +27,15 @@ sidebar-avatar: /blog/img/sidebar-avatar.jpg
 ## 社交网站设置
 RSS: false
 # 微博 打开个人主页截取用户编号 例如个人主页网址为https://weibo.com/u/5089298519 填写 5089298519
-weibo_username:     5089298519
+#weibo_username:     5089298519
 # 知乎个人页面 填写用户名
-zhihu_username:     Zhoudalu
+zhihu_username:     NX-01Enterprise
 # GitHub个人页面 填写用户名
-github_username:    superZhouDaLu
+github_username:    NaiveTomcat
 # facebook个人页面 填写用户名
 #facebook_username:  100024292873470
 # 简书个人页面截取用户编号 与微博同理
-jianshu_username:   56a2c6b6027c
+#jianshu_username:   56a2c6b6027c
 # twitter个人页面 填写用户名
 #twitter_username:   zhoudalu
 
@@ -63,29 +63,29 @@ kramdown:
 # disqus_username: superZhoudalu
 
 ## Gitalk
-gitalk:
+#gitalk:
   #是否开启Gitalk评论
-  enable: true
+ # enable: true
   #生成的clientID
-  clientID: bde9d2bff0cd1048efeb
+# clientID: bde9d2bff0cd1048efeb
   #生成的clientSecret
-  clientSecret: 4be7e16501b7e64eb16568815fe5948fc3007ad1
+#  clientSecret: 4be7e16501b7e64eb16568815fe5948fc3007ad1
   #仓库名称
-  repo: superzhoudalu.github.io
+#  repo: superzhoudalu.github.io
   #github用户名
-  owner: superZhouDaLu
-  admin: superZhouDaLu
+#  owner: superZhouDaLu
+#  admin: superZhouDaLu
   #是否启用类似FB的阴影遮罩
-  distractionFreeMode: true
+#  distractionFreeMode: true
 
 ## 统计
 # Baidu Analytics
 #ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-135281137-1'
+#ga_track_id: 
 # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
-ga_domain: https://aigq.me
+#ga_domain: auto
 
 ## 标签设置
 # 是否使用首页标签
@@ -99,13 +99,7 @@ service-worker: true
 
 ## 友情链接
 friends: [
-    {
-        title: "帅超",
-        href: "https://github.com/shuaichaoA"
-    },{
-        title: "鸡大婶",
-        href: "https://github.com/ruinszero"
-    },{
+   {
         title: "Apple",
         href: "https://apple.com"
     },{
