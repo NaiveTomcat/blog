@@ -12,9 +12,9 @@ description: "I guess it comes down to a simple choice:get busy living or get bu
 # 关键词
 keyword: "Java, Kotlin, Android, Vue.js, Apple, iPhone"
 # 博客访问链接
-url: "https://aigq.me"
+url: "https://www.tsinghuamakerxian.cn"
 # '/blog' if your blog hosted on 'host/blog'
-baseurl: ""
+baseurl: "/blog"
 
 ## 侧边栏设置
 # 是否开启侧边栏 true 开始 false 关闭
