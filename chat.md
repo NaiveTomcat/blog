@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chat
 ---
 
 # 西安交大少年班（苏州）聊天室地址及端口
