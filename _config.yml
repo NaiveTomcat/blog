@@ -105,5 +105,11 @@ friends: [
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
+    },{
+        title: "puppetsheep",
+        href: "https://puppetsheep.github.io"
+    },{
+        title: "Evil binary",
+        href: "https://evil-binary.github.io"
     }
 ]
