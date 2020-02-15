@@ -111,5 +111,8 @@ friends: [
     },{
         title: "Evil binary",
         href: "https://evil-binary.github.io"
+    },{
+        title: "SAGIRI",
+        href: "https://blog.sagiri-web.com"
     }
 ]
