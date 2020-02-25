@@ -29,7 +29,7 @@ RSS: false
 # 微博 打开个人主页截取用户编号 例如个人主页网址为https://weibo.com/u/5089298519 填写 5089298519
 #weibo_username:     5089298519
 # 知乎个人页面 填写用户名
-zhihu_username:     NX-01Enterprise
+zhihu_username:     77d75b0d2eae8592ae1365e1005184a8
 # GitHub个人页面 填写用户名
 github_username:    NaiveTomcat
 # facebook个人页面 填写用户名
