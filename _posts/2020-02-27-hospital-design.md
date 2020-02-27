@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  新型新型快速传染病医院设计报告
+title:  新型快速传染病医院设计报告
 author: 党一桐
 date:   2020-02-27
 tag: 
