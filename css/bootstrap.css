@@ -1561,6 +1561,10 @@ pre code {
   max-height: 340px;
   overflow-y: scroll;
 }
+.video{
+  width: 1024px;
+  height: 768px;
+}
 .container {
   padding-right: 15px;
   padding-left: 15px;
