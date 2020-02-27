@@ -9,5 +9,5 @@ tag:
 
 嵌入的是我自己的视频。
 <div class="video">
-<iframe src="//player.bilibili.com/player.html?aid=56322306&cid=98431211&page=1" style="width: 100%;height: 100%" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=56322306&cid=98431211&page=1" style="width: 80%;height: 80%" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
