@@ -13,7 +13,7 @@ tag:
 
 ## 视频
 
-<div class="embed-responsive">
+<div class="embed-responsive embed-responsive-4by3">
 <iframe src="//player.bilibili.com/player.html?aid=92153718&cid=157350503&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
 
