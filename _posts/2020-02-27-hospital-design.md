@@ -13,7 +13,7 @@ tag:
 
 ## 视频
 
-<iframe src="//player.bilibili.com/player.html?aid=92153718&cid=157350503&page=1"  style="width: 100%;height: 100%" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=92153718&cid=157350503&page=1"  style="width: 100%;height:600px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C04Fxk0s_e4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
