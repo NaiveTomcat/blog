@@ -15,6 +15,8 @@ tag:
 
 <iframe src="//player.bilibili.com/player.html?aid=92153718&cid=157350503&page=1"  style="width: 800px;height: 600px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C04Fxk0s_e4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 引言
 
 随着今年新型冠状病毒肺炎的肆虐以及火神山、雷神山两座医院的快速建成，我们设想设计一种新型模块化传染病医院，具备快速建造、长期储存、功能齐全的特点。本文为我们设计过程中的设计思路及报告。
