@@ -26,4 +26,4 @@ jobs:
     - name: Setup knownhosts
       run: ssh-keyscan 139.224.193.66 >> ~/.ssh/known_hosts
     - name: Run SSH Command
-      run: ssh root@139.224.193.66 "cd ~/websites/blogtest1 && yes | httrack update && cp -r ./www.tsinghuamakerxian.cn/blog /var/www/html/"
+      run: ssh root@139.224.193.66 "sleep 300 && cd ~/websites/blogtest1 && yes | httrack update && cp -r ./www.tsinghuamakerxian.cn/blog /var/www/html/"
