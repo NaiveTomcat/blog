@@ -87,6 +87,7 @@ layout: default
                 <!-- 引入Gitalk评论插件  -->
                 <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
                 <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
+                <script src="https://rawgit.com/qhh0205/78e9e0b1f3114db6737f3ed8cdd51d3a/raw/3894c5be5aa2378336b1f5ee0f296fa0b22d06e9/md5.min.js"></script>
                 <div id="gitalk-container"></div>
                 <script type="text/javascript">
                     var gitalk = new Gitalk({
@@ -95,8 +96,8 @@ layout: default
                     repo: '{{site.gitalk.repo}}',
                     owner: '{{site.gitalk.owner}}',
                     admin: ['{{site.gitalk.admin}}'],
-                    distractionFreeMode: {{site.gitalk.distractionFreeMode}},
-                    id: window.location.pathname,
+                    distractionFreeMode: '{{site.gitalk.distractionFreeMode}}',
+                    id: md5(location.pathname),
                     });
                     gitalk.render('gitalk-container');
                 </script>
